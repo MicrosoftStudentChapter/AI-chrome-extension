@@ -94,7 +94,7 @@ It’s optional, but it makes your extension look real and legit. Plus, you can 
 
 
 5,  Where does ML come in your AI Content Detector?
-->In content.js (or a separate model.js)
+->In detector.js 
 
 
 6, Making an extension and not a website because...?
