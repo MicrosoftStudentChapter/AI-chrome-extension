@@ -1,0 +1,17 @@
+.ai-detector-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #fef3c7, #fde68a);
+  color: #7c2d12;
+  border-bottom: 1.5px solid #fcd34d;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  z-index: 9999;
+  transition: all 0.3s ease-in-out;
+}
