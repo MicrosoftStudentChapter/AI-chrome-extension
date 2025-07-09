@@ -1,4 +1,4 @@
-function detectAIContent(text) {    
+function detectAIContent(text) {
   const aiIndicators = [
     "as an ai language model",
     "in conclusion",
@@ -12,8 +12,6 @@ function detectAIContent(text) {
     "in addition",
     "additionally"
   ];
-  
-//   ML SEEKH KE UPDATE 
 
   const lowerText = text.toLowerCase();
   let score = 0;
